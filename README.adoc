@@ -1,0 +1,9 @@
+
+
+
+# References
+
+*
+https://github.com/purescript-contrib/purescript-canvas/blob/master/docs/Graphics/Canvas.md[Canvas]
+* http://sharkdp.github.io/purescript-colors/[Colors]
+* https://github.com/purescript/purescript-prelude/blob/v0.1.4/docs/Prelude.md[Prelude]
